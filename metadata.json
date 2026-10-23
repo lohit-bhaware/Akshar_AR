@@ -1,0 +1,6 @@
+{
+  "name": "AksharAR Showcase",
+  "description": "Showcase website for AksharAR (अक्षर AR), an open-source assistive Augmented Reality reading companion addressing Devanagari script dyslexia in Marathi and Hindi through spatial computing and linguistic syllable segmentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
